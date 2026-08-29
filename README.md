@@ -1,28 +1,49 @@
+## 接毕业设计和论文
+
+### 作者微信：vvsgxmn  (支持修改、 部署调试、 支持代做毕设)
+
+### 接网站建设、小程序
+
+### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 都可以做
+
+### 购买地址：[https://www.vvxx.love](https://www.vvxx.love)（vv毕设网）
+
+### 支持 **一键生成 UML 图**：上传项目压缩包即可自动产出功能模块图、用例图、流程图、E-R 图、时序图等全套毕设图表。
+
+### 提供 **免费配套软件下载 + 安装说明 + 部署教程**
+
+![vv毕设网 - 一键画图](https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/uml-draw.png)
+
+<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/image-20260825133349317.png" alt="image-20260825133349317" />
+
+⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
+
+---
+
 # 基于SpringBoot+Vue的动物园综合管理系统
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue3](https://img.shields.io/badge/-Vue3-grey?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white) 
 
 ## 项目介绍
 
-动物园管理系统 整合园区动物档案、饲养医疗、门票销售与游客服务的动物园综合管理平台，支持游客端浏览购票与管理员后台运营。
-
-**适合毕设，课设，学习使用！**
+ZooManage 是一款整合园区动物档案、饲养医疗、门票销售与游客服务的动物园综合管理平台，支持游客端浏览购票与管理员后台运营。
 
 ## 主要功能模块
 
-- **动物百科与园区导览**
-- **入园与表演购票**
-- **动物档案与饲养医疗**
-- **订单与公告管理**
-- **游客个人中心**
-- **ECharts 运营仪表盘**
+- **用户认证模块**：支持游客与管理员登录，JWT 鉴权与路由守卫
+- **动物百科模块**：动物信息浏览、筛选分页与详情百科展示
+- **购票服务模块**：入园购票、表演购票、订单支付与状态查询
+- **园区导览模块**：场馆地图、驻场动物与园区资讯公告
+- **档案管理模块**：动物档案、种类场馆、饲养医疗后台维护
+- **运营看板模块**：ECharts 仪表盘掌握门票与运营数据
 
 ## 技术架构
 
-- 后端：Spring Boot + MyBatis-Plus + JWT
-- 前端：Vue 3 + Vite + Element Plus + Pinia
-- 数据库：MySQL 8.x
+- **后端**：Spring Boot 2.7.18 + MyBatis-Plus + JWT + Lombok
+- **前端**：Vue 3.5 + Vue Router + Pinia + Element Plus + Vite 5 + ECharts
+- **数据库**：MySQL 8.0
 
+<!-- screenshots-start -->
 ## 系统截图
 
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/zoomanage/UML%E5%9B%BE%E5%88%97%E8%A1%A8.png" alt="UML图列表" width="600" />
@@ -48,21 +69,3 @@
 <img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/AutoUpload/screenshots/zoomanage/%E8%AE%BA%E6%96%87%E5%9B%BE2.png" alt="论文图2" width="600" />
 
 <!-- screenshots-end -->
-
----
-
-**软件版本：** JDK 8.0 | MySQL 8 | Vue 3 | Node 20.19.0 | Navicat 16
-
-**需要软件和PPT + 微信：vvsgxmn**
-二维码：
-
-<div align="left">
-<img src="https://fanhua-yingcai.oss-cn-shanghai.aliyuncs.com/753b7d4a2ede90f531338ee5549c2695.jpg" alt="二维码" width="300" />
-</div>
-
-1. 免费赠送以上所有软件都有，包括IDEA、WebStorm的压缩包和破解文件
-2. 帮忙好评或者star截图发我，免费赠送PPT+答辩问答20题！！！谢谢谢谢老板！！！
-
-⚠️ Bug添加微信**免费修复**，免费修复。其他平台的私信一律不管（微信方便发送文件）
-
-承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
